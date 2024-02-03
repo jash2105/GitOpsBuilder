@@ -114,6 +114,5 @@ To run `make test`, you must set `DOCKERBUILD_USERNAME`, `DOCKERBUILD_PASSWORD`,
 ```
 make DOCKERBUILD_USERNAME="yourusername" DOCKERBUILD_PASSWORD="yourtoken" DOCKERBUILD_SERVER="docker-server-address" test
 ```
-=======
-```
+
 
