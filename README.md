@@ -54,7 +54,7 @@ metadata:
   namespace: default
 spec:
   interval: 5m
-  url: https://github.com/yourusername/gitops-builder-example
+  url: https://github.com/jash2105/GitOpsBuilder
   ref:
     branch: main
 ```
